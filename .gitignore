@@ -45,6 +45,10 @@ android/app/debug.keystore
 # Temporary copy created during build
 C:\AlemonoBuild\
 
+# JVM and native crash / replay logs (keep locally, don't commit)
+hs_err_pid*.log
+replay_pid*.log
+
 # Python
 __pycache__/
 *.py[cod]
