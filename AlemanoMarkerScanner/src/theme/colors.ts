@@ -1,0 +1,15 @@
+export const colors = {
+  background: '#F7F7F7',
+  surface: '#FFFFFF',
+  textPrimary: '#111111',
+  textSecondary: '#666666',
+  accent: '#FF4D4D',
+  accentLight: '#FFE5E5',
+  border: '#E5E5E5',
+  scannerOverlay: 'rgba(0,0,0,0.6)',
+  scannerReticle: '#FF4D4D',
+  scannerReticleActive: '#FF4D4D',
+  success: '#22C55E',
+  white: '#FFFFFF',
+  black: '#000000',
+} as const;
