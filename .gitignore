@@ -1,0 +1,59 @@
+# Node
+node_modules/
+
+# Metro
+*.tmp
+.cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/.cxx/
+.android/
+local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Build outputs
+**/build/
+**/dist/
+
+# Temporary / OS
+Thumbs.db
+*.swp
+
+# Debug and local keystores
+android/app/debug.keystore
+*.keystore
+
+# Temporary copy created during build
+C:\AlemonoBuild\
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Tests
+coverage/
+
+# Misc
+.env
+.env.local
+
+# Keep lockfiles (do not ignore package-lock.json or yarn.lock intentionally)
